@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-23 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our T-HRI paper [*Social Robot Co-Design Canvases: A Participatory Design Framework*](https://dl.acm.org/doi/10.1145/3472225) is invited for presentation at HRI 2023!
