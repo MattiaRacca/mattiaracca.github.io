@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mattia
 middle_name: 
-last_name: Racca
+last_name: Racca, D.Sc.
 email: mattia.racca@naverlabs.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: > # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -269,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Racca]
+  first_name: [Mattia]
 
   style: apa
   locale: en
@@ -300,7 +300,7 @@ enable_publication_badges:
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, video, pdflink, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 4  # leave blank to always show all authors
