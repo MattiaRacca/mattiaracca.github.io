@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Mattia Racca, and I do research in **Human-Robot Interaction**, Interactive Machine Learning, and Social Navigation.
 
-I have a PhD from [Aalto University (Finland)](www.aalto.fi/en) on the topic of Active Learning Robots, supervised by [Prof. Ville Kyrki](https://irobotics.aalto.fi/).
+I have a PhD from [Aalto University (Finland)](https://www.aalto.fi/en) on the topic of Active Learning Robots, supervised by [Prof. Ville Kyrki](https://irobotics.aalto.fi/).
