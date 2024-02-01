@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [**IDIAP**](https://www.idiap.ch/en) (Martigny, Switzerland) as a Postdoctoral researcher, under the supervision of [Dr. Jean-Marc Odobez](https://www.idiap.ch/~odobez/) and [Dr. Sylvain Calinon](https://calinon.ch/).
+I join [**IDIAP**](https://www.idiap.ch/en) (Martigny, Switzerland) as a Postdoctoral researcher, under the supervision of [Dr. Jean-Marc Odobez](https://www.idiap.ch/~odobez/) and [Dr. Sylvain Calinon](https://calinon.ch/).
