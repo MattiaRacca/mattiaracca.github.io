@@ -312,7 +312,7 @@ scholar:
   last_name: [Racca]
   first_name: [Mattia]
 
-  style: apa
+  style: chicago-note-bibliography
   locale: en
 
   source: /_bibliography/
