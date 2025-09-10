@@ -57,6 +57,9 @@
           </li>
 
           <!-- Other pages -->
+          <!-- news -->
+          <li class="nav-item"><a class="nav-link" href="{{ '/news/' | relative_url }}">news</a></li>
+          
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
@@ -108,6 +111,8 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          <!-- Static CV pdf link -->
+          <li class="nav-item"><a class="nav-link" href="/assets/pdf/cv.pdf">curriculum vitae</a></li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -116,10 +121,6 @@
               </button>
             </li>
           {% endif %}
-          <!-- news -->
-          <li class="nav-item"><a class="nav-link" href="{{ '/news/' | relative_url }}">news</a></li>
-          <!-- Static CV pdf link -->
-          <li class="nav-item"><a class="nav-link" href="/assets/pdf/cv.pdf">curriculum vitae</a></li>
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
