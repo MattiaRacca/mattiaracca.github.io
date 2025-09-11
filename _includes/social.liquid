@@ -118,6 +118,9 @@
 {% if site.zotero_username %}
   <a href="https://www.zotero.org/{{ site.zotero_username }}" title="Zotero"><i class="ai ai-zotero"></i></a>
 {% endif %}
+{% if site.goodreads_handle %}
+  <a href="https://www.goodreads.com/user/show/{{ site.goodreads_handle }}" title="Goodreads"><i class="fa-brands fa-goodreads"></i></a>
+{% endif %}
 {% if site.rss_icon %}
   <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
 {% endif %}
