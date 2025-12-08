@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as Area Chair for [2026 ACM/IEEE HRI Conference](https://humanrobotinteraction.org/2026/).
+I serve as Area Chair for [2026 ACM/IEEE HRI Conference](https://humanrobotinteraction.org/2026/).
