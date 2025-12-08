@@ -82,6 +82,8 @@ $ docker compose up --build
 
 > If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of the previous command! It will download Ruby and Jekyll and install all Ruby packages again from scratch.
 
+> If you get weird error related to `bundler` and `checksums` that I do not pretend to understand, here is a fix. Inside the docker (`docker exec -it <container-id> bash`), do `bundle lock --update`
+
 If you want to use a specific docker version, you can do so by changing `latest` tag to `your_version` in `docker-compose.yaml`. For example, you might have created your website on `v0.10.0` and you want to stick with that.
 
 ## Local Setup with Development Containers
