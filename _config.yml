@@ -314,7 +314,7 @@ scholar:
   last_name: [Racca]
   first_name: [Mattia]
 
-  style: chicago-note-bibliography
+  style: chicago-notes-bibliography
   locale: en
 
   source: /_bibliography/
