@@ -18,7 +18,7 @@ While writing my dissertation in spring 2020, my brain started to find *anything
 ### The Idea
 As summarized in [this article](https://magazine.raspberrypi.com/articles/sonos-spotify-vinyl-emulator) later published on the Raspberry Pi Magazine, people on Reddit were connecting Sonos speakers with NFC/RFID readers to stream music from Spotify.
 By placing a nice illustration of a music album (with a hidden tag inside) in a predefined spot, the corresponding music would stream from the speakers, giving you back the tactile feeling of handling a vinyl record or a cassette tape. 
-Writing about this in 2025, when the *Offline* and other digital detox movements are booming, makes me realize how headed of time these tinkerers were for desiring to manually go through a curated music collection in a dedicated space in their homes.
+Writing about this in 2025, when the *Offline* and other digital detox movements are booming, makes me realize how ahead of time these tinkerers were for desiring to manually go through a curated music collection in a dedicated space in their homes.
 
 <div class="row justify-content-center">
     <div class="col-6">
