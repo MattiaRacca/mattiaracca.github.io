@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Mattia Racca, and I do research in **Human-Robot Interaction**, Interactive Machine Learning, and, more recently, Social Navigation.
+Hi! I'm Mattia Racca, and I do research broadly in **Human-Robot Interaction**, now focusing on Social Robot Navigation at [NAVER LABS Europe](https://europe.naverlabs.com/).
 
-I have a PhD from [Aalto University (Finland)](https://www.aalto.fi/en) on the topic of Active Learning Robots, supervised by [Prof. Ville Kyrki](https://irobotics.aalto.fi/).
+I have a PhD from [Aalto University](https://www.aalto.fi/en) on the topic of Active Learning Robots, supervised by [Prof. Ville Kyrki](https://irobotics.aalto.fi/).
