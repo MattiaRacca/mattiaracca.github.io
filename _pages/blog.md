@@ -194,5 +194,6 @@ pagination:
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
 {% endif %}
+☝️ <font size="2">  DISCLAIMER: {{ site.disclaimer }} </font>
 
 </div>
