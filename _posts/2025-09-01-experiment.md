@@ -4,7 +4,7 @@ author: Mattia Racca
 title: A writing experiment
 date: 2025-09-09 21:00:00
 description: Blog posts? in this LLM economy?!
-tags: writing research hobbies
+tags: writing research
 categories:
 ---
 This is an experiment: I want to do some writing that is not strictly academic (conference papers, reviews, quarterly reports) for several reasons, personal and professional.
